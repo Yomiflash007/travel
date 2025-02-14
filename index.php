@@ -57,7 +57,7 @@
     <section>
       <img src="https://minicine.org.uk/wp-content/uploads/2024/12/200w.gif" alt="Landing Image">
       <br>
-      <a class="apply-button" href="https://visa.toolso.online/2025/02/06/top-10-visa-sponsored-jobs-in-canada-for-high-school-graduates/" target="_blank">
+      <a class="apply-button" href="https://job.schoolx.ng/usa-visa-sponsorship-opportunities/" target="_blank">
         APPLY NOW
       </a>
     </section>
